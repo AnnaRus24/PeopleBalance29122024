@@ -1,0 +1,1 @@
+// CategoryPicker.js content

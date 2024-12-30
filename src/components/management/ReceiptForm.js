@@ -1,0 +1,1 @@
+// ReceiptForm.js content

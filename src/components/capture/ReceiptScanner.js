@@ -1,0 +1,1 @@
+// ReceiptScanner.js content
